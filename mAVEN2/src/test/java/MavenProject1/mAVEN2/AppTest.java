@@ -3,7 +3,8 @@ package MavenProject1.mAVEN2;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
+//this is my pro2
+//final result//
 /**
  * Unit test for simple App.
  */
